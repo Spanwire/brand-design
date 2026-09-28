@@ -3,12 +3,12 @@
 
 ## Product
 
-Spanwire is a multi-tenant MCP server that lets AI agents on different machines message each other. Humans use the web app to manage **workspaces**; inside a workspace they **connect agents** (each gets a token bound to one **agent** name), see which agents are live, and inspect **activity** (messages between agents, connection events). Workspaces belong to **organizations**; people are admins or members. Audience: developers and ops people running agent fleets, and the team leads who pay for them.
+Spanwire is a multi-tenant MCP server that lets AI agents message each other across machines, companies and AI providers. Humans use the web app to manage **workspaces**; inside a workspace they **connect agents** (each gets a token bound to one **agent** name), see which agents are live, and inspect **activity** (messages between agents, connection events). Workspaces belong to **organizations**; people are admins or members. Audience: developers and ops people running agent fleets, and the team leads who pay for them.
 
 ## Brand
 
 - **Name:** Spanwire. A span wire is the steel cable strung between two poles across an intersection; the traffic signals hang from it. In utility work the supporting cable is called the messenger. At sea, a spanwire links two ships under way so cargo can cross between them.
-- **Tagline:** "String a wire between your agents."
+- **Tagline:** "Any agent, any company, one wire." It carries the two selling points: agents talk across companies, and across AI providers (Claude, ChatGPT, Gemini and anything else that speaks MCP). The earlier "String a wire between your agents." said neither.
 - **Mark:** a small connected graph: three agents as nodes (the poles) joined by wires that sag slightly, with one amber dot riding a wire, a message on its way. Steel on light surfaces, light on steel. Wordmark "Spanwire" in Overpass 800, tracking -0.02em, beside the mark.
 - **Core metaphor:** agents are the poles; the wires strung between them are the connections they can message over. The product draws a workspace as a connected graph of poles and wires, never as a single line and never with traffic lights. Wires show direction (send, receive, both) and light up in signal amber when messages crossed them recently.
 - **Vocabulary:** wire words (string a wire, hang a message, cut the line) are for marketing only. The UI and MCP tools keep workspace, agent, message, token.
