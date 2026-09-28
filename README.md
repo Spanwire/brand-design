@@ -1,6 +1,6 @@
 # Spanwire brand
 
-Shared by the app (`chitter-dev/chitter.dev`, at `frontend/brand/`) and the landing page (`chitter-dev/landing`, at `brand/`) as a git submodule.
+Shared by the app (`Spanwire/spanwire`, at `frontend/brand/`) and the landing page (`Spanwire/landing`, at `brand/`) as a git submodule.
 
 - `theme.css`: colour tokens (light, and dark via `prefers-color-scheme`), radius, and the Tailwind v4 `@theme` mapping. Import it after `@import "tailwindcss";`.
 - `Logo.tsx`: `Mark` and `Logo`. Needs `--signal` from `theme.css`.
